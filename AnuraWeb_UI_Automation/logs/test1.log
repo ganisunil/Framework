@@ -1,0 +1,151 @@
+2022-03-07 12:13:53,346 [main] INFO Contact Form - Form Submitted Successfully
+2022-03-07 12:38:24,624 [main] INFO Contact Form - Form Submitted Successfully
+2022-03-07 12:39:43,087 [main] INFO Contact Form - Form Submitted Successfully
+2022-03-07 12:57:51,430 [main] INFO Contact Form - Title Matched
+2022-03-07 12:59:20,970 [main] INFO Contact Form - Title Matched
+2022-03-07 13:01:09,239 [main] INFO Contact Form - Title Matched
+2022-03-07 13:05:50,532 [main] INFO Contact Form - Title Matched
+2022-03-07 13:09:38,317 [main] INFO Contact Form - Title Matched
+2022-03-07 13:11:47,823 [main] INFO Contact Form - Title Matched
+2022-03-07 13:13:22,054 [main] INFO Contact Form - Title Matched
+2022-03-16 21:29:26,368 [main] INFO Contact Form - Title Matched
+2022-03-16 22:34:18,139 [main] INFO Contact Form - Title Matched
+2022-03-16 22:39:45,498 [main] INFO Contact Form - Title Matched
+2022-03-17 07:09:22,403 [main] INFO Contact Form - Title Matched
+2022-03-17 07:27:58,827 [main] INFO Contact Form - Title Matched
+2022-03-17 07:32:36,015 [main] INFO Testing - Invalid Browser Details
+2022-03-17 07:33:37,908 [main] INFO com.test.base.BrowserFactory - Invalid Browser Details
+2022-03-17 07:42:58,756 [main] INFO Contact Form - Title Matched
+2022-03-17 11:37:13,989 [main] INFO com.anuraweb.base.BrowserFactory - Invalid Browser Details
+2022-03-17 11:38:24,104 [main] INFO Contact Form - Title Matched
+2022-03-17 11:47:38,351 [main] INFO Contact Form - Title Matched
+2022-03-17 11:48:57,545 [main] INFO com.anuraweb.base.BrowserFactory - Invalid Browser Details
+2022-03-17 18:12:31,919 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-17 18:12:32,483 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-17 18:15:04,923 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-17 18:15:05,564 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-17 18:22:33,257 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-17 18:22:33,307 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-17 18:22:33,748 [main] INFO Contact Form - you have entered the credentials
+2022-03-17 18:22:33,910 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-17 18:27:51,631 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-17 18:27:51,661 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-17 18:27:52,080 [main] INFO Contact Form - you have entered the credentials
+2022-03-17 18:27:52,230 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-17 18:31:27,896 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-17 18:31:27,921 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-17 18:31:28,247 [main] INFO Contact Form - you have entered the credentials
+2022-03-17 18:31:28,370 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-17 18:31:28,483 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-24 18:38:48,787 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-24 18:38:48,838 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-24 18:38:49,182 [main] INFO Contact Form - you have entered the credentials
+2022-03-24 18:38:49,717 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-24 18:39:54,808 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-24 18:39:54,818 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-24 18:39:55,211 [main] INFO Contact Form - you have entered the credentials
+2022-03-24 18:39:55,734 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-24 20:30:22,018 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-24 20:30:22,055 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-24 20:30:22,965 [main] INFO Contact Form - you have entered the credentials
+2022-03-24 20:30:23,808 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-24 20:39:06,332 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-24 20:39:06,355 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-24 20:39:07,931 [main] INFO Contact Form - you have entered the credentials
+2022-03-24 20:39:08,174 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-24 20:39:08,490 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-24 20:41:48,043 [main] INFO Contact Form - Anura Web Application has been loaded.
+2022-03-24 20:41:48,063 [main] INFO Contact Form - Title Matched - Anura Web
+2022-03-24 20:41:48,690 [main] INFO Contact Form - you have entered the credentials
+2022-03-24 20:41:48,969 [main] INFO Contact Form - you have clicked on Login Button
+2022-03-24 20:41:49,349 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:18:25,323 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:18:25,498 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:18:36,731 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:21:59,016 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:21:59,225 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:21:59,978 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:24:20,846 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:24:21,033 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:24:24,085 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:24:28,368 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:24:55,160 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:28:18,427 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:28:19,355 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:28:22,481 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:28:23,871 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:28:26,189 [main] INFO Contact Form - Search Button clicked
+2022-03-28 15:28:26,529 [main] INFO Contact Form - Book has been Selected
+2022-03-28 15:28:26,813 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:42:49,509 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:42:49,535 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:42:52,627 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:42:53,952 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:42:56,963 [main] INFO Contact Form - Search Button clicked
+2022-03-28 15:42:57,262 [main] INFO Contact Form - Book has been Selected
+2022-03-28 15:42:57,313 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 15:43:06,723 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:45:11,545 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:45:11,751 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:45:14,857 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:45:16,236 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:45:18,304 [main] INFO Contact Form - Search Button clicked
+2022-03-28 15:45:23,572 [main] INFO Contact Form - Book has been Selected
+2022-03-28 15:45:23,605 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 15:45:28,938 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:54:52,069 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:54:52,310 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:54:55,410 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:54:56,786 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:54:59,612 [main] INFO Contact Form - Search Button clicked
+2022-03-28 15:55:04,934 [main] INFO Contact Form - Book has been Selected
+2022-03-28 15:55:04,973 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 15:55:09,918 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 15:55:44,065 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 15:55:44,769 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 15:55:47,876 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 15:55:49,306 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 15:55:51,769 [main] INFO Contact Form - Search Button clicked
+2022-03-28 15:55:56,980 [main] INFO Contact Form - Book has been Selected
+2022-03-28 15:55:56,998 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 15:56:02,340 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 16:14:33,015 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 16:14:33,088 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 16:14:36,199 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 16:14:37,512 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 16:14:39,815 [main] INFO Contact Form - Search Button clicked
+2022-03-28 16:14:45,078 [main] INFO Contact Form - Book has been Selected
+2022-03-28 16:14:45,128 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 16:14:53,381 [main] INFO com.anuraweb.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 17:37:41,312 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 17:37:41,401 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 17:37:44,510 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 17:37:45,770 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 17:37:48,185 [main] INFO Contact Form - Search Button clicked
+2022-03-28 17:37:53,409 [main] INFO Contact Form - Book has been Selected
+2022-03-28 17:37:53,423 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 17:38:01,509 [main] INFO com.poc.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-03-28 18:33:31,377 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-03-28 18:33:31,979 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-03-28 18:33:35,077 [main] INFO Contact Form - Drop Down Clicked
+2022-03-28 18:33:36,281 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-03-28 18:33:39,054 [main] INFO Contact Form - Search Button clicked
+2022-03-28 18:33:44,369 [main] INFO Contact Form - Book has been Selected
+2022-03-28 18:33:44,403 [main] INFO Contact Form - You're in Add Cart Screen
+2022-03-28 18:33:53,608 [main] INFO com.poc.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-05-24 16:24:06,896 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-05-24 16:24:07,104 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-05-24 16:24:10,159 [main] INFO Contact Form - Drop Down Clicked
+2022-05-24 16:24:11,467 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-05-24 16:24:13,673 [main] INFO Contact Form - Search Button clicked
+2022-05-24 16:24:19,190 [main] INFO Contact Form - Book has been Selected
+2022-05-24 16:24:19,215 [main] INFO Contact Form - You're in Add Cart Screen
+2022-05-24 16:24:28,685 [main] INFO com.poc.stepdefinitions.TestInitializerHooks - Browser is closed
+2022-05-26 11:33:08,961 [main] INFO Contact Form - Amazon Web Application has been loaded.
+2022-05-26 11:33:09,194 [main] INFO Contact Form - Title Matched - Amazon Web
+2022-05-26 11:33:12,291 [main] INFO Contact Form - Drop Down Clicked
+2022-05-26 11:33:13,536 [main] INFO Contact Form - Entered the search value Wings Of Fire
+2022-05-26 11:33:16,483 [main] INFO Contact Form - Search Button clicked
+2022-05-26 11:33:21,812 [main] INFO Contact Form - Book has been Selected
+2022-05-26 11:33:21,846 [main] INFO Contact Form - You're in Add Cart Screen
+2022-05-26 11:33:31,922 [main] INFO com.poc.stepdefinitions.TestInitializerHooks - Browser is closed

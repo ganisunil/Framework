@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test suite">
+<parameter name="browsername" value="Chrome"/>
+<parameter name="environment" value="qa"/>
+  <test name="Tests">
+    <classes>
+      <class name="com.poc.testrunner.BaseRunner" />
+    </classes>
+  </test>
+</suite>
